@@ -19,9 +19,3 @@ No installation required. Just clone/download the repository and open `index.htm
 - `index.html` — Main HTML file
 - `style.css` — Styles for calculator and animations
 - `script.js` — Calculator logic
-
-## Screenshots
-![screenshot](screenshot.png)
-
-## License
-MIT
